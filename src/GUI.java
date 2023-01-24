@@ -31,7 +31,6 @@ public class GUI extends JFrame{
         frame.add(panel);
         frame.setJMenuBar (menuBar);
         frame.setTitle("Homework_1_GUI");
-        frame.setJMenuBar(menuBar);
         frame.setVisible(true);
         panel.add(comboBox);
 
